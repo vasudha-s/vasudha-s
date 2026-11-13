@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Vasudha 👋
 
-<!--
-**vasudha-s/vasudha-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Architect working on applied AI and agentic systems.
 
-Here are some ideas to get you started:
+## What I'm up to
+- Learning to build with the Claude API and MCP
+- Working through Anthropic's developer learning paths
+- Preparing for Claude certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Coming soon. I'll add repos here as I build them.
+
+---
+*Opinions and projects here are my own.*
